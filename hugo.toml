@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Seashells in my pocket'
-theme = "hugo-bearcub"
+theme = "ananke"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
