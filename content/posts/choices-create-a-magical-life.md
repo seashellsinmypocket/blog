@@ -1,6 +1,6 @@
 +++
 date = '2025-07-26T21:06:19-07:00'
-draft = true
+draft = false
 title = 'Choices create a Magical Life'
 tags = ['life', 'magician', 'choices' , 'self love', 'intuition']
 +++
