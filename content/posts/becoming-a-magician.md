@@ -2,7 +2,7 @@
 date = '2025-07-26T19:17:12-07:00'
 draft = false
 title = 'Becoming a Magician'
-tags: ['adhd', 'life', 'magician', 'metaphor']
+tags = ['adhd', 'life', 'magician', 'metaphor']
 +++
 
 I've always been drawn to magic, the kind that sparks awe, wonder, and possibility.
