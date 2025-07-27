@@ -10,4 +10,4 @@ Lately, I've also been coming to terms with the possibility that I may have ADHD
 
 I read that the core struggle for people with executive dysfunction is bridging the gap between visualizing what they want to do and actually doing it. Planning can offer a sense of accomplishment without the follow-through. That resonated. It explains the trail of failed New Year's resolutions, abandoned vision boards, and half-filled bullet journals I’ve left behind.
 
-I have no doubt my ability to plan is exceptional—I've spent years refining it. But that’s often where my energy ends: at the beautiful, detailed blueprint stage.
+I have no doubt my ability to plan is exceptional, I've spent years refining it. But that’s often where my energy ends: at the beautiful, detailed blueprint stage.
