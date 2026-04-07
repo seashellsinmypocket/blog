@@ -1,4 +1,4 @@
-+++ date = '2025-08-04T20:48:12-07:00' draft = true title = 'Attention is all you need' tags = ['adhd', 'life', 'attention economy', 'llm', 'metaphor'] +++
++++ date = '2025-08-04T20:48:12-07:00' draft = false title = 'Attention is all you need' tags = ['adhd', 'life', 'attention economy', 'llm', 'metaphor'] +++
 
 I was recently asked to write a guest post at work about my thoughts on AI coding tools. My day job is of a Senior Software Engineer at a mid size company.I wrote the article about my reflections about AI and LLM usage. I had a paragraph on the attention economy but
 after thinking about it, I deleted it from my final draft. The advice was too personal for a professional setting. I will write about some of those thoughts here and add some more while I am at it.
