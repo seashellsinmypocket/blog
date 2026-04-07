@@ -1,4 +1,9 @@
-+++ date = '2026-04-06T21:23:12-07:00' draft = false title = 'Old lessons, new milestones' tags = ['photography', 'lessons', 'birding'] +++
++++
+date = '2026-04-06T21:23:12-07:00'
+draft = false
+title = 'Old lessons, new milestones'
+tags = ['photography', 'lessons', 'birding']
++++
 
 I went birding a few days back. It was a Friday evening. I was in no hurry. Another birder had given me a tip off of a Harlequin Duck sighting in another area of the park.
 So I got into my car looking for the duck. The duck was not found that day. But while waiting for it to show itself I noticed a lot of Sea Gulls flying closeby.
